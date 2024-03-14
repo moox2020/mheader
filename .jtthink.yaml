@@ -2,3 +2,4 @@ name: myheader
 import: "github.com/moox2020/mheader"
 package: mheader
 summary: "myheader from moox2020"
+version: v1.0.1
